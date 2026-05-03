@@ -41,7 +41,7 @@
       <p><sub>Arabic-first coding orchestrators that decompose requests into structured JSON task graphs — natively understanding Egyptian Arabic, MSA, and English.</sub></p>
       <!-- <p><sub>Available in XS (0.6B), S (1.7B), M (4B), and L (8B) sizes.</sub></p> -->
       <br />
-      <a href="https://huggingface.co/collections/nomeda-lab/fattah-orch-family"><img src="https://img.shields.io/badge/View_Family-7C3AED?style=flat-square&logo=huggingface&logoColor=white" /></a>
+      <a href="https://huggingface.co/collections/nomeda-lab/fattah-orchestrator"><img src="https://img.shields.io/badge/View_Family-7C3AED?style=flat-square&logo=huggingface&logoColor=white" /></a>
     </td>
     <td align="center" width="33%">
       <h3>Nomeda-MSA-64K</h3>
